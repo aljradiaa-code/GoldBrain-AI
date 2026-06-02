@@ -12,28 +12,39 @@ MODEL_OUT  = os.environ.get('MODEL_OUT',  'models/gold_brain_model.tflite')
 MIN_TRADES = int(os.environ.get('MIN_TRADES', '10'))
 
 with open(LOGS_PATH) as f:
-    data = json.load(f)
+    raw = json.load(f)
 
-trades = data.get('trades', [])
+# Support both {trades:[]} and plain [] formats
+trades = raw.get('trades', raw) if isinstance(raw, dict) else raw
 print(f'Loaded {len(trades)} trades')
 
 if len(trades) < MIN_TRADES:
     print(f'Not enough trades ({len(trades)} < {MIN_TRADES}). Skipping retrain.')
     sys.exit(0)
 
-def extract_features(trade):
-    price      = float(trade.get('price', 0))
-    change     = float(trade.get('changePercent', 0) or 0)
-    sig_map    = {'BUY': 1.0, 'SELL': -1.0, 'WAIT': 0.0}
-    signal     = sig_map.get(trade.get('signal', 'WAIT'), 0.0)
-    confidence = float(trade.get('confidence', 0.5))
-    outcome    = 1.0 if trade.get('outcome', 'WIN') == 'WIN' else 0.0
-    return [price / 5000.0, change / 10.0, signal, confidence, outcome]
+# Filter only closed trades with outcome
+closed = [t for t in trades if t.get('outcome') in ('WIN','LOSS','BREAKEVEN')]
+print(f'Closed trades with outcome: {len(closed)}')
 
-rows = [extract_features(t) for t in trades]
+if len(closed) < MIN_TRADES:
+    print(f'Not enough closed trades. Skipping retrain.')
+    sys.exit(0)
+
+SIG_MAP = {'BUY': 1.0, 'SELL': -1.0, 'WAIT': 0.0}
+OUT_MAP = {'WIN': 1.0, 'BREAKEVEN': 0.5, 'LOSS': 0.0}
+
+def extract(t):
+    price      = float(t.get('entry_price') or t.get('entryPrice') or 0) / 5000.0
+    change     = float(t.get('change_percent') or t.get('changePercent') or 0) / 10.0
+    signal     = SIG_MAP.get(t.get('signal') or '', 0.0)
+    confidence = float(t.get('confidence') or 0.5)
+    outcome    = OUT_MAP.get(t.get('outcome',''), 0.0)
+    return [price, change, signal, confidence, outcome]
+
+rows = [extract(t) for t in closed]
 X    = np.array([[r[0], r[1], r[2], r[3]] for r in rows], dtype=np.float32)
 y    = np.array([r[4] for r in rows], dtype=np.float32)
-print(f'Training on {len(X)} samples...')
+print(f'Training on {len(X)} samples (X shape: {X.shape})')
 
 model = tf.keras.Sequential([
     tf.keras.layers.Input(shape=(4,)),
@@ -43,7 +54,7 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1,  activation='sigmoid'),
 ])
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-model.fit(X, y, epochs=50, batch_size=8, verbose=0)
+model.fit(X, y, epochs=50, batch_size=max(4, len(X)//4), verbose=0)
 
 loss, acc = model.evaluate(X, y, verbose=0)
 print(f'Accuracy: {acc:.3f}  Loss: {loss:.4f}')
