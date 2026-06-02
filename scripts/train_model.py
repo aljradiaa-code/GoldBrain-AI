@@ -11,7 +11,6 @@ LOGS_PATH  = os.environ.get('LOGS_PATH', 'data/logs.json')
 MODEL_OUT  = os.environ.get('MODEL_OUT',  'models/gold_brain_model.tflite')
 MIN_TRADES = int(os.environ.get('MIN_TRADES', '10'))
 
-# ─── Load logs ────────────────────────────────────────────────────────────────
 with open(LOGS_PATH) as f:
     data = json.load(f)
 
@@ -22,7 +21,6 @@ if len(trades) < MIN_TRADES:
     print(f'Not enough trades ({len(trades)} < {MIN_TRADES}). Skipping retrain.')
     sys.exit(0)
 
-# ─── Feature engineering ──────────────────────────────────────────────────────
 def extract_features(trade):
     price      = float(trade.get('price', 0))
     change     = float(trade.get('changePercent', 0) or 0)
@@ -37,7 +35,6 @@ X    = np.array([[r[0], r[1], r[2], r[3]] for r in rows], dtype=np.float32)
 y    = np.array([r[4] for r in rows], dtype=np.float32)
 print(f'Training on {len(X)} samples...')
 
-# ─── Build & train model ──────────────────────────────────────────────────────
 model = tf.keras.Sequential([
     tf.keras.layers.Input(shape=(4,)),
     tf.keras.layers.Dense(32, activation='relu'),
@@ -51,7 +48,6 @@ model.fit(X, y, epochs=50, batch_size=8, verbose=0)
 loss, acc = model.evaluate(X, y, verbose=0)
 print(f'Accuracy: {acc:.3f}  Loss: {loss:.4f}')
 
-# ─── Export TFLite ────────────────────────────────────────────────────────────
 converter = tf.lite.TFLiteConverter.from_keras_model(model)
 converter.optimizations = [tf.lite.Optimize.DEFAULT]
 tflite_model = converter.convert()
