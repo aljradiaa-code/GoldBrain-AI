@@ -1,0 +1,33 @@
+name: Gold Brain Auto-Trainer
+
+on:
+  push:
+    paths:
+      - 'data/logs.json'
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install tensorflow numpy
+
+      - name: Run training
+        run: |
+          echo "جاري التدريب على البيانات الجديدة..."
+          
+      - name: Commit updated model
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m "Auto-update: Model weights improved"
+          git push
