@@ -30,5 +30,21 @@
     "change_percent": -0.31,
     "traded_at": "2026-06-02T23:43:48.624Z",
     "logged_at": "2026-06-02T23:43:49.556Z"
+  },
+  {
+    "id": 4,
+    "symbol": "XAUUSD",
+    "direction": "BUY",
+    "entry_price": 2456,
+    "close_price": 24560,
+    "outcome": "WIN",
+    "pnl": null,
+    "lot_size": 0.01,
+    "notes": null,
+    "signal": "BUY",
+    "confidence": 0.84,
+    "change_percent": null,
+    "traded_at": "2026-06-03T02:35:54.192Z",
+    "logged_at": "2026-06-03T02:35:56.010Z"
   }
 ]
