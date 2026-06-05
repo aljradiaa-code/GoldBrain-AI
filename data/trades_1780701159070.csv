@@ -1,0 +1,413 @@
+source,direction,entry,tp,sl,result,pnl,tf,openTime,rule
+live,SELL,2395.84,2371.89,2405.42,closed,-1134.89,M15,6:59:45 م,Rule_Gamma_OTE_Bounce
+live,SELL,2395.84,2371.89,2405.42,closed,-1134.89,M15,6:59:46 م,Rule_Delta_CHoCH
+live,SELL,2395.84,2371.89,2405.42,closed,-1134.89,M15,6:59:46 م,Rule_Alpha_OB_BOS
+live,SELL,2395.84,2371.89,2405.42,closed,-1134.89,M15,6:59:45 م,Rule_Gamma_OTE_Bounce
+live,SELL,2395.84,2371.89,2405.42,closed,-1134.89,M15,6:59:46 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Delta_CHoCH
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Alpha_OB_BOS
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Gamma_OTE_Bounce
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:23 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:25 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Beta_FVG_Fill
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:24 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:27 م,Rule_Epsilon_Multi
+live,SELL,2466.38,2444.50,2475.13,closed,-297.00,M15,7:04:26 م,Rule_Alpha_OB_BOS
+live,BUY,2404.86,2430.54,2394.59,closed,163.08,M15,7:09:22 م,Rule_Epsilon_Multi
+live,BUY,2406.33,2428.47,2397.48,closed,73.27,M15,7:09:49 م,Rule_Delta_CHoCH
+live,SELL,2526.24,2504.49,2534.94,closed,30.30,M5,7:56:02 م,Rule_Delta_CHoCH
+live,SELL,2495.95,2478.58,2502.89,closed,-105.93,M5,7:56:06 م,Rule_Alpha_OB_BOS
+live,SELL,2496.02,2472.73,2505.34,closed,-109.69,M5,9:01:49 م,Rule_Alpha_OB_BOS
+live,SELL,2496.02,2472.73,2505.34,closed,-109.69,M5,9:01:49 م,Rule_Delta_CHoCH
+live,SELL,2456.15,2434.15,2464.96,closed,-109.67,M5,12:37:53 ص,Rule_Gamma_OTE_Bounce
+live,BUY,4340.23,4358.60,4332.89,closed,-14.53,M5,8:51:38 م,Rule_Beta_FVG_Fill
+live,BUY,4340.23,4358.60,4332.89,closed,-14.53,M5,8:51:39 م,Rule_Epsilon_Multi
+live,BUY,4342.32,4361.66,4334.58,closed,-16.62,M5,8:55:49 م,Rule_Gamma_OTE_Bounce
+live,BUY,4342.32,4361.66,4334.58,closed,-16.62,M5,8:55:50 م,Rule_Gamma_OTE_Bounce
+live,BUY,4342.45,4360.75,4335.12,closed,-16.74,M5,8:58:17 م,Rule_Alpha_OB_BOS
+live,BUY,4342.45,4360.75,4335.12,closed,-16.74,M5,8:58:17 م,Rule_Epsilon_Multi
+backtest,BUY,4468.55,4481.91,4461.87,loss,-0.67,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4467.51,4481.89,4460.31,loss,-0.72,M5,,Rule_Epsilon_Multi
+backtest,BUY,4467.29,4482.07,4459.89,loss,-0.74,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4461.77,4475.46,4454.92,win,1.37,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4467.08,4480.50,4460.37,loss,-0.67,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4468.30,4482.19,4461.36,loss,-0.69,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4466.17,4477.70,4460.41,loss,-0.58,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4471.21,4483.39,4465.12,loss,-0.61,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4472.33,4484.73,4466.13,loss,-0.62,M5,,Rule_Epsilon_Multi
+backtest,BUY,4471.31,4483.08,4465.43,loss,-0.59,M5,,Rule_Epsilon_Multi
+backtest,BUY,4471.14,4482.95,4465.24,loss,-0.59,M5,,Rule_Delta_CHoCH
+backtest,BUY,4470.70,4482.22,4464.93,loss,-0.58,M5,,Rule_Epsilon_Multi
+backtest,BUY,4466.38,4477.96,4460.59,win,1.16,M5,,Rule_Epsilon_Multi
+backtest,BUY,4467.86,4478.52,4462.53,win,1.07,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4469.33,4480.23,4463.88,win,1.09,M5,,Rule_Delta_CHoCH
+backtest,BUY,4469.60,4480.73,4464.03,win,1.11,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4472.57,4483.15,4467.28,win,1.06,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4471.86,4482.17,4466.70,win,1.03,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4469.16,4478.16,4464.66,win,0.90,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4471.95,4481.04,4467.41,win,0.91,M5,,Rule_Delta_CHoCH
+backtest,BUY,4470.22,4479.34,4465.66,win,0.91,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4476.89,4486.95,4471.86,win,1.01,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4475.44,4486.93,4469.70,win,1.15,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4476.65,4487.45,4471.25,win,1.08,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4478.77,4490.54,4472.89,win,1.18,M5,,Rule_Delta_CHoCH
+backtest,BUY,4490.02,4501.72,4484.17,loss,-0.59,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4486.94,4501.71,4479.55,win,1.48,M5,,Rule_Epsilon_Multi
+backtest,BUY,4485.31,4500.23,4477.85,win,1.49,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4486.14,4502.23,4478.09,win,1.61,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4502.85,4520.09,4494.23,loss,-0.86,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4502.26,4523.38,4491.70,loss,-1.06,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4514.15,4534.70,4503.88,loss,-1.03,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4505.90,4527.88,4494.91,loss,-1.10,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4504.28,4520.83,4496.00,loss,-0.83,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4504.68,4520.97,4496.54,loss,-0.81,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4505.41,4521.43,4497.39,loss,-0.80,M5,,Rule_Delta_CHoCH
+backtest,BUY,4503.63,4519.91,4495.49,loss,-0.81,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4507.80,4523.75,4499.82,loss,-0.80,M5,,Rule_Epsilon_Multi
+backtest,BUY,4506.47,4522.71,4498.35,loss,-0.81,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4504.69,4520.72,4496.67,loss,-0.80,M5,,Rule_Delta_CHoCH
+backtest,BUY,4505.72,4522.34,4497.42,loss,-0.83,M5,,Rule_Delta_CHoCH
+backtest,BUY,4508.89,4525.51,4500.58,loss,-0.83,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4510.05,4527.53,4501.32,loss,-0.87,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4509.86,4525.14,4502.22,loss,-0.76,M5,,Rule_Epsilon_Multi
+backtest,BUY,4502.02,4517.19,4494.43,loss,-0.76,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4501.94,4519.37,4493.23,loss,-0.87,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4496.66,4514.84,4487.58,loss,-0.91,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4491.61,4509.86,4482.48,loss,-0.91,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4488.30,4507.96,4478.48,loss,-0.98,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4489.90,4510.53,4479.58,loss,-1.03,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4487.76,4508.85,4477.21,loss,-1.05,M5,,Rule_Epsilon_Multi
+backtest,BUY,4487.01,4508.95,4476.05,loss,-1.10,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4483.73,4505.06,4473.07,loss,-1.07,M5,,Rule_Alpha_OB_BOS
+backtest,SELL,4479.97,4458.74,4490.59,win,2.12,M5,,Rule_Delta_CHoCH
+backtest,SELL,4468.16,4450.01,4477.23,loss,-0.91,M5,,Rule_Epsilon_Multi
+backtest,SELL,4460.97,4442.42,4470.24,loss,-0.93,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4481.29,4489.99,4476.94,loss,-0.43,M5,,Rule_Delta_CHoCH
+backtest,BUY,4483.27,4494.61,4477.60,loss,-0.57,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4484.16,4496.23,4478.13,loss,-0.60,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4484.39,4496.92,4478.12,loss,-0.63,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4481.34,4492.72,4475.66,loss,-0.57,M5,,Rule_Delta_CHoCH
+backtest,BUY,4482.31,4493.72,4476.61,loss,-0.57,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4482.21,4493.07,4476.78,loss,-0.54,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4482.89,4492.91,4477.88,loss,-0.50,M5,,Rule_Delta_CHoCH
+backtest,BUY,4481.40,4491.33,4476.43,loss,-0.50,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4482.76,4492.52,4477.88,loss,-0.49,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4481.50,4490.03,4477.23,loss,-0.43,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4480.82,4488.36,4477.04,loss,-0.38,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4477.63,4483.86,4474.51,loss,-0.31,M5,,Rule_Epsilon_Multi
+backtest,BUY,4481.32,4487.93,4478.01,loss,-0.33,M5,,Rule_Epsilon_Multi
+backtest,BUY,4478.30,4486.12,4474.39,loss,-0.39,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4478.29,4486.29,4474.29,loss,-0.40,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4478.63,4486.66,4474.61,loss,-0.40,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4478.57,4486.72,4474.50,loss,-0.41,M5,,Rule_Epsilon_Multi
+backtest,BUY,4477.75,4485.85,4473.70,loss,-0.40,M5,,Rule_Delta_CHoCH
+backtest,BUY,4477.92,4485.05,4474.35,loss,-0.36,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4478.30,4485.03,4474.93,loss,-0.34,M5,,Rule_Epsilon_Multi
+backtest,SELL,4478.38,4471.26,4481.94,loss,-0.36,M5,,Rule_Delta_CHoCH
+backtest,BUY,4480.23,4486.79,4476.94,loss,-0.33,M5,,Rule_Beta_FVG_Fill
+backtest,SELL,4478.37,4472.53,4481.30,loss,-0.29,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4475.23,4481.07,4472.31,win,0.58,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4473.68,4480.09,4470.48,win,0.64,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4474.60,4481.17,4471.32,win,0.66,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4476.13,4482.40,4472.99,win,0.63,M5,,Rule_Epsilon_Multi
+backtest,BUY,4481.43,4489.04,4477.63,loss,-0.38,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4480.01,4487.58,4476.23,loss,-0.38,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4478.91,4486.54,4475.09,loss,-0.38,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4478.48,4485.72,4474.86,loss,-0.36,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4478.56,4485.12,4475.28,loss,-0.33,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4481.34,4486.77,4478.62,loss,-0.27,M5,,Rule_Epsilon_Multi
+backtest,BUY,4480.24,4485.97,4477.38,loss,-0.29,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4479.77,4485.75,4476.77,loss,-0.30,M5,,Rule_Delta_CHoCH
+backtest,BUY,4478.47,4484.86,4475.27,loss,-0.32,M5,,Rule_Delta_CHoCH
+backtest,BUY,4478.74,4485.36,4475.43,loss,-0.33,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4477.79,4483.74,4474.82,loss,-0.30,M5,,Rule_Delta_CHoCH
+backtest,BUY,4475.97,4480.36,4473.77,loss,-0.22,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4475.53,4479.68,4473.46,loss,-0.21,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4475.55,4479.39,4473.63,loss,-0.19,M5,,Rule_Epsilon_Multi
+backtest,BUY,4475.59,4479.25,4473.75,loss,-0.18,M5,,Rule_Epsilon_Multi
+backtest,BUY,4475.82,4479.22,4474.13,loss,-0.17,M5,,Rule_Delta_CHoCH
+backtest,BUY,4476.03,4479.24,4474.42,loss,-0.16,M5,,Rule_Delta_CHoCH
+backtest,BUY,4475.48,4478.44,4474.00,loss,-0.15,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4475.51,4478.34,4474.10,loss,-0.14,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4475.29,4477.76,4474.05,loss,-0.12,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4475.51,4477.68,4474.42,loss,-0.11,M5,,Rule_Delta_CHoCH
+backtest,BUY,4475.94,4477.75,4475.03,loss,-0.09,M5,,Rule_Epsilon_Multi
+backtest,BUY,4475.31,4476.89,4474.53,loss,-0.08,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4475.42,4476.91,4474.68,loss,-0.07,M5,,Rule_Epsilon_Multi
+backtest,BUY,4475.42,4476.86,4474.70,loss,-0.07,M5,,Rule_Epsilon_Multi
+backtest,BUY,4474.40,4476.43,4473.38,win,0.20,M5,,Rule_Epsilon_Multi
+backtest,BUY,4478.85,4482.85,4476.84,loss,-0.20,M5,,Rule_Delta_CHoCH
+backtest,BUY,4479.99,4484.36,4477.81,loss,-0.22,M5,,Rule_Epsilon_Multi
+backtest,BUY,4479.38,4484.14,4477.00,loss,-0.24,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4478.73,4484.13,4476.03,loss,-0.27,M5,,Rule_Epsilon_Multi
+backtest,BUY,4476.20,4482.18,4473.20,loss,-0.30,M5,,Rule_Epsilon_Multi
+backtest,BUY,4474.07,4481.26,4470.47,loss,-0.36,M5,,Rule_Epsilon_Multi
+backtest,BUY,4471.02,4479.09,4466.98,loss,-0.40,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4470.15,4478.74,4465.86,loss,-0.43,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4463.87,4472.06,4459.78,win,0.82,M5,,Rule_Epsilon_Multi
+backtest,BUY,4473.23,4483.78,4467.95,loss,-0.53,M5,,Rule_Delta_CHoCH
+backtest,SELL,4471.56,4459.69,4477.50,win,1.19,M5,,Rule_Epsilon_Multi
+backtest,SELL,4470.43,4458.49,4476.40,win,1.19,M5,,Rule_Delta_CHoCH
+backtest,BUY,4470.53,4482.53,4464.53,loss,-0.60,M5,,Rule_Delta_CHoCH
+backtest,SELL,4468.49,4456.06,4474.70,win,1.24,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4465.51,4478.55,4458.98,loss,-0.65,M5,,Rule_Epsilon_Multi
+backtest,BUY,4463.19,4476.45,4456.56,loss,-0.66,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4463.14,4476.44,4456.49,loss,-0.67,M5,,Rule_Delta_CHoCH
+backtest,BUY,4462.96,4475.61,4456.63,loss,-0.63,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4463.52,4476.18,4457.19,loss,-0.63,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4462.33,4473.64,4456.67,loss,-0.57,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4462.97,4472.83,4458.04,loss,-0.49,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4461.17,4471.22,4456.15,loss,-0.50,M5,,Rule_Epsilon_Multi
+backtest,BUY,4455.95,4466.63,4450.62,win,1.07,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4453.88,4466.34,4447.64,win,1.25,M5,,Rule_Epsilon_Multi
+backtest,BUY,4455.30,4467.82,4449.05,win,1.25,M5,,Rule_Delta_CHoCH
+backtest,BUY,4453.88,4466.00,4447.82,win,1.21,M5,,Rule_Delta_CHoCH
+backtest,BUY,4459.90,4472.08,4453.82,loss,-0.61,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4462.56,4475.94,4455.88,loss,-0.67,M5,,Rule_Delta_CHoCH
+backtest,BUY,4464.21,4479.34,4456.65,loss,-0.76,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4463.05,4477.36,4455.90,loss,-0.72,M5,,Rule_Epsilon_Multi
+backtest,BUY,4465.35,4479.78,4458.13,loss,-0.72,M5,,Rule_Gamma_OTE_Bounce
+backtest,SELL,4461.52,4446.55,4469.01,loss,-0.75,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4463.83,4479.15,4456.17,loss,-0.77,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4465.05,4480.58,4457.29,loss,-0.78,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4461.41,4477.60,4453.31,loss,-0.81,M5,,Rule_Delta_CHoCH
+backtest,BUY,4458.64,4475.04,4450.43,loss,-0.82,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4457.72,4474.91,4449.13,loss,-0.86,M5,,Rule_Epsilon_Multi
+backtest,BUY,4457.45,4475.87,4448.24,loss,-0.92,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4457.81,4476.61,4448.41,loss,-0.94,M5,,Rule_Epsilon_Multi
+backtest,BUY,4452.29,4471.26,4442.80,loss,-0.95,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4449.64,4467.60,4440.66,loss,-0.90,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4447.16,4466.36,4437.56,loss,-0.96,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4450.23,4469.36,4440.66,loss,-0.96,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4450.35,4467.71,4441.67,loss,-0.87,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4452.10,4467.37,4444.47,loss,-0.76,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4451.30,4466.85,4443.52,loss,-0.78,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4446.58,4461.46,4439.14,loss,-0.74,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4446.40,4462.37,4438.41,loss,-0.80,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4447.37,4464.74,4438.69,loss,-0.87,M5,,Rule_Delta_CHoCH
+backtest,BUY,4449.86,4467.86,4440.87,loss,-0.90,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4442.19,4451.79,4437.39,loss,-0.48,M5,,Rule_Delta_CHoCH
+backtest,BUY,4442.65,4452.49,4437.73,loss,-0.49,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4438.78,4448.91,4433.71,win,1.01,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4444.79,4454.40,4439.99,loss,-0.48,M5,,Rule_Delta_CHoCH
+backtest,BUY,4443.08,4454.75,4437.25,loss,-0.58,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4445.29,4457.09,4439.40,loss,-0.59,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4449.57,4460.99,4443.86,loss,-0.57,M5,,Rule_Delta_CHoCH
+backtest,BUY,4449.15,4461.61,4442.92,loss,-0.62,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4447.86,4458.83,4442.38,loss,-0.55,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4444.91,4455.58,4439.58,loss,-0.53,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4442.53,4453.20,4437.20,loss,-0.53,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4445.66,4456.45,4440.26,loss,-0.54,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4442.68,4453.96,4437.05,loss,-0.56,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4446.29,4457.96,4440.46,loss,-0.58,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4443.83,4456.34,4437.57,loss,-0.63,M5,,Rule_Epsilon_Multi
+backtest,BUY,4446.80,4459.38,4440.52,loss,-0.63,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4445.07,4458.01,4438.59,loss,-0.65,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4439.79,4451.85,4433.76,loss,-0.60,M5,,Rule_Alpha_OB_BOS
+backtest,SELL,4436.97,4423.48,4443.71,loss,-0.67,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4440.56,4454.67,4433.50,loss,-0.71,M5,,Rule_Epsilon_Multi
+backtest,SELL,4437.42,4423.58,4444.35,loss,-0.69,M5,,Rule_Delta_CHoCH
+backtest,BUY,4430.78,4444.57,4423.89,win,1.38,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4442.24,4457.69,4434.51,win,1.55,M5,,Rule_Delta_CHoCH
+backtest,BUY,4442.23,4460.29,4433.20,win,1.81,M5,,Rule_Delta_CHoCH
+backtest,BUY,4447.04,4464.90,4438.11,win,1.79,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4448.12,4467.03,4438.67,win,1.89,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4466.07,4480.10,4459.06,loss,-0.70,M5,,Rule_Delta_CHoCH
+backtest,BUY,4466.12,4480.34,4459.01,loss,-0.71,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4465.12,4475.36,4459.99,loss,-0.51,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4463.04,4470.07,4459.53,loss,-0.35,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4460.32,4467.35,4456.81,win,0.70,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4465.24,4472.20,4461.77,loss,-0.35,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4466.13,4474.14,4462.12,loss,-0.40,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4468.23,4476.84,4463.93,loss,-0.43,M5,,Rule_Epsilon_Multi
+backtest,SELL,4464.12,4455.97,4468.19,loss,-0.41,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4466.88,4477.39,4461.63,loss,-0.53,M5,,Rule_Epsilon_Multi
+backtest,BUY,4467.66,4475.66,4463.66,loss,-0.40,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4465.55,4472.80,4461.92,loss,-0.36,M5,,Rule_Delta_CHoCH
+backtest,BUY,4463.56,4470.53,4460.07,win,0.70,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4465.05,4471.90,4461.63,loss,-0.34,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4466.73,4474.17,4463.01,loss,-0.37,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4466.51,4474.35,4462.59,loss,-0.39,M5,,Rule_Delta_CHoCH
+backtest,BUY,4464.58,4472.07,4460.83,win,0.75,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4466.30,4474.13,4462.39,loss,-0.39,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4463.38,4471.63,4459.25,win,0.82,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4462.61,4471.34,4458.24,win,0.87,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4463.11,4471.86,4458.73,win,0.88,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4465.50,4473.91,4461.29,win,0.84,M5,,Rule_Delta_CHoCH
+backtest,BUY,4465.17,4474.16,4460.67,win,0.90,M5,,Rule_Delta_CHoCH
+backtest,BUY,4466.47,4475.22,4462.09,win,0.88,M5,,Rule_Epsilon_Multi
+backtest,BUY,4465.61,4473.93,4461.45,win,0.83,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4467.02,4476.03,4462.51,loss,-0.45,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4471.28,4481.37,4466.23,loss,-0.50,M5,,Rule_Delta_CHoCH
+backtest,BUY,4469.92,4481.73,4464.02,loss,-0.59,M5,,Rule_Epsilon_Multi
+backtest,BUY,4468.07,4480.28,4461.96,loss,-0.61,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4466.76,4479.15,4460.57,loss,-0.62,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4468.71,4481.26,4462.43,loss,-0.63,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4471.15,4485.14,4464.16,loss,-0.70,M5,,Rule_Delta_CHoCH
+backtest,BUY,4468.74,4482.29,4461.96,loss,-0.68,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4462.64,4477.05,4455.44,loss,-0.72,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4454.07,4469.60,4446.31,loss,-0.78,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4441.66,4464.61,4430.19,loss,-1.15,M5,,Rule_Epsilon_Multi
+backtest,BUY,4444.01,4470.04,4431.00,loss,-1.30,M5,,Rule_Epsilon_Multi
+backtest,BUY,4443.99,4468.87,4431.56,loss,-1.24,M5,,Rule_Delta_CHoCH
+backtest,BUY,4420.80,4446.11,4408.15,loss,-1.27,M5,,Rule_Alpha_OB_BOS
+backtest,SELL,4411.67,4379.86,4427.57,win,3.18,M5,,Rule_Alpha_OB_BOS
+backtest,SELL,4408.77,4373.92,4426.20,win,3.49,M5,,Rule_Epsilon_Multi
+backtest,BUY,4417.00,4456.09,4397.45,loss,-1.95,M5,,Rule_Epsilon_Multi
+backtest,BUY,4418.67,4459.75,4398.13,loss,-2.05,M5,,Rule_Alpha_OB_BOS
+backtest,SELL,4418.02,4376.99,4438.53,win,4.10,M5,,Rule_Beta_FVG_Fill
+backtest,SELL,4413.58,4374.30,4433.22,win,3.93,M5,,Rule_Delta_CHoCH
+backtest,BUY,4414.48,4446.89,4398.28,loss,-1.62,M5,,Rule_Delta_CHoCH
+backtest,SELL,4405.60,4374.43,4421.19,win,3.12,M5,,Rule_Delta_CHoCH
+backtest,BUY,4386.38,4419.71,4369.71,loss,-1.67,M5,,Rule_Delta_CHoCH
+backtest,BUY,4390.69,4428.77,4371.66,loss,-1.90,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4385.97,4418.49,4369.71,loss,-1.63,M5,,Rule_Epsilon_Multi
+backtest,BUY,4384.82,4414.79,4369.83,loss,-1.50,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4377.04,4401.63,4364.75,loss,-1.23,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4377.98,4402.19,4365.87,loss,-1.21,M5,,Rule_Delta_CHoCH
+backtest,BUY,4373.71,4401.32,4359.90,loss,-1.38,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4366.98,4397.51,4351.72,loss,-1.53,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4367.31,4398.93,4351.51,loss,-1.58,M5,,Rule_Epsilon_Multi
+backtest,BUY,4358.24,4387.47,4343.63,loss,-1.46,M5,,Rule_Epsilon_Multi
+backtest,SELL,4353.57,4328.89,4365.91,loss,-1.23,M5,,Rule_Epsilon_Multi
+backtest,SELL,4350.18,4324.40,4363.08,loss,-1.29,M5,,Rule_Beta_FVG_Fill
+backtest,SELL,4348.90,4322.76,4361.97,loss,-1.31,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4357.63,4384.36,4344.27,loss,-1.34,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4361.12,4389.79,4346.78,loss,-1.43,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4369.46,4396.94,4355.72,loss,-1.37,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4368.21,4394.91,4354.86,loss,-1.34,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4364.14,4390.39,4351.02,loss,-1.31,M5,,Rule_Delta_CHoCH
+backtest,BUY,4359.74,4386.99,4346.11,loss,-1.36,M5,,Rule_Delta_CHoCH
+backtest,BUY,4352.14,4378.32,4339.05,loss,-1.31,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4352.34,4379.57,4338.72,loss,-1.36,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4354.33,4379.84,4341.58,loss,-1.28,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4347.81,4372.33,4335.54,loss,-1.23,M5,,Rule_Epsilon_Multi
+backtest,BUY,4338.65,4364.10,4325.93,loss,-1.27,M5,,Rule_Delta_CHoCH
+backtest,BUY,4341.29,4365.64,4329.12,loss,-1.22,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4337.90,4360.21,4326.75,loss,-1.12,M5,,Rule_Epsilon_Multi
+backtest,BUY,4340.87,4361.84,4330.39,loss,-1.05,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4335.78,4355.00,4326.17,loss,-0.96,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4337.39,4356.96,4327.60,loss,-0.98,M5,,Rule_Delta_CHoCH
+backtest,BUY,4338.29,4356.49,4329.19,loss,-0.91,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4326.56,4345.19,4317.25,win,1.86,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4326.05,4344.52,4316.81,win,1.85,M5,,Rule_Delta_CHoCH
+backtest,BUY,4328.81,4348.02,4319.20,win,1.92,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4343.25,4362.39,4333.67,loss,-0.96,M5,,Rule_Epsilon_Multi
+backtest,BUY,4340.62,4360.08,4330.88,loss,-0.97,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4340.60,4359.38,4331.21,loss,-0.94,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4341.70,4358.31,4333.39,loss,-0.83,M5,,Rule_Epsilon_Multi
+backtest,BUY,4338.90,4356.46,4330.13,loss,-0.88,M5,,Rule_Epsilon_Multi
+backtest,BUY,4338.95,4355.68,4330.58,loss,-0.84,M5,,Rule_Delta_CHoCH
+backtest,BUY,4339.58,4356.31,4331.21,loss,-0.84,M5,,Rule_Epsilon_Multi
+backtest,BUY,4343.04,4358.95,4335.08,loss,-0.80,M5,,Rule_Delta_CHoCH
+backtest,BUY,4344.02,4360.29,4335.89,loss,-0.81,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4341.49,4357.38,4333.54,loss,-0.79,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4340.13,4356.47,4331.96,loss,-0.82,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4342.32,4356.93,4335.02,loss,-0.73,M5,,Rule_Epsilon_Multi
+backtest,BUY,4343.21,4357.37,4336.13,loss,-0.71,M5,,Rule_Delta_CHoCH
+backtest,BUY,4336.17,4349.65,4329.44,loss,-0.67,M5,,Rule_Epsilon_Multi
+backtest,BUY,4331.13,4344.84,4324.27,loss,-0.69,M5,,Rule_Epsilon_Multi
+backtest,BUY,4327.53,4341.77,4320.42,loss,-0.71,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4325.70,4339.71,4318.69,loss,-0.70,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4328.37,4343.14,4320.98,loss,-0.74,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4325.68,4339.86,4318.59,loss,-0.71,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4323.42,4339.73,4315.26,loss,-0.82,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4320.79,4337.21,4312.58,loss,-0.82,M5,,Rule_Gamma_OTE_Bounce
+backtest,BUY,4324.19,4339.40,4316.58,loss,-0.76,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4322.40,4338.22,4314.49,loss,-0.79,M5,,Rule_Epsilon_Multi
+backtest,BUY,4322.69,4337.85,4315.11,loss,-0.76,M5,,Rule_Delta_CHoCH
+backtest,BUY,4321.10,4338.26,4312.52,loss,-0.86,M5,,Rule_Beta_FVG_Fill
+backtest,BUY,4313.58,4328.61,4306.06,win,1.50,M5,,Rule_Alpha_OB_BOS
+backtest,BUY,4313.32,4328.89,4305.53,win,1.56,M5,,Rule_Epsilon_Multi
+backtest,BUY,4315.52,4330.78,4307.89,win,1.53,M5,,Rule_Alpha_OB_BOS
