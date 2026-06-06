@@ -19,13 +19,15 @@ jobs:
         with:
           python-version: "3.9"
 
-      - name: Install dependencies
+      - name: Install exactly compatible versions
         run: |
           pip install tensorflow==2.13.0
-          pip install tensorflowjs==4.8.0   # ← الإصدار الأقدم المتوافق
-          pip install pandas numpy
+          pip install protobuf==3.20.3
+          pip install jax==0.4.13 jaxlib==0.4.13
+          pip install tensorflowjs==4.8.0
+          pip install pandas numpy h5py
 
-      - name: Run training
+      - name: Run training and export
         run: python scripts/train_model.py
 
       - name: Commit model
