@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-06T14:47:20.164093Z",
-  "accuracy": 0.72,
-  "samples": 5,
-  "epochs": 30,
-  "version": "2.0",
-  "model_arch": "200->128->64->32->3",
+  "timestamp": "2026-06-06T21:25:21.363010Z",
+  "accuracy": 0.9298,
+  "samples": 1987,
+  "epochs": 51,
+  "version": "3.0",
+  "model_arch": "200->128->BN->64->BN->32->3",
   "status": "ready"
 }
