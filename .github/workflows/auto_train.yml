@@ -26,17 +26,15 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install tensorflow==2.15.0 numpy pandas scikit-learn
+          pip install tensorflow==2.15.0 tensorflowjs numpy pandas scikit-learn
 
       - name: Run Training Script
         run: |
-          python scripts/train_model.py
-        continue-on-error: false
+          python Scripts/train_model.py
 
       - name: Commit updated model
         run: |
