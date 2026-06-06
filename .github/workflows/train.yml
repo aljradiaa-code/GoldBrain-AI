@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "GoldBrain Bot"
           git config user.email "bot@goldbrain.ai"
-          git add models/
-          git add gold_brain_weights.keras || true
-          git diff --quiet && git diff --staged --quiet ||             git commit -m "Update model $(date '+%Y-%m-%d %H:%M')"
+          git add models/ gold_brain_weights.keras data/*.csv data/*.json || true
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "Update model $(date '+%Y-%m-%d %H:%M')"
           git push
