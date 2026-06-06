@@ -17,10 +17,13 @@ jobs:
 
       - uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.9"
 
       - name: Install dependencies
-        run: pip install tensorflow==2.13.0 tensorflowjs==4.10.0 pandas numpy
+        run: |
+          pip install tensorflow==2.13.0
+          pip install tensorflowjs==4.8.0   # ← الإصدار الأقدم المتوافق
+          pip install pandas numpy
 
       - name: Run training
         run: python scripts/train_model.py
