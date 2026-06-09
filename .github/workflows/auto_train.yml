@@ -41,12 +41,18 @@ jobs:
           git config --global user.name "MVT-VRL Bot"
           git config --global user.email "bot@mvt-vrl.ai"
           
-          # جلب التحديثات ودمجها قبل الرفع لتجنب خطأ rejected
+          # إخفاء ملفات النموذج الجديدة مؤقتاً لتنظيف البيئة قبل السحب
+          git stash
+          
+          # سحب أي تحديثات حدثت على المستودع ودمجها (Rebase)
           git pull origin main --rebase
           
-          git add models/ gold_brain_weights.keras || true
-          git status
-          git diff --staged --quiet || git commit -m "[MVT-VRL] Model updated $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # استرجاع ملفات النموذج المحدثة
+          git stash pop || true
           
-          # الرفع إلى الفرع الرئيسي
+          # إضافة الملفات المحدثة إلى المستودع
+          git add models/ gold_brain_weights.keras || true
+          
+          # حفظ التغييرات ورفعها فقط إذا كان هناك تغييرات فعلية
+          git diff --staged --quiet || git commit -m "[MVT-VRL] Model updated $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push origin main
