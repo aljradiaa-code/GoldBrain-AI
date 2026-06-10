@@ -1,5 +1,5 @@
 // MVT-VRL Trader Service Worker
-const CACHE_NAME = 'mvt-trader-v1';
+const CACHE_NAME = 'mvt-trader-v3.1';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
@@ -15,17 +15,26 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // Network first for API calls, cache first for assets
-  if (e.request.url.includes('api.') || e.request.url.includes('binance') || e.request.url.includes('twelvedata')) {
+  const url = e.request.url;
+
+  // استراتيجية التحديث: "الشبكة أولاً" لملفات النموذج والبيانات الحساسة
+  // هذا يضمن تحميل أحدث أوزان فور رفعها من بوت التدريب
+  if (url.includes('model.json') || url.includes('model_weights.bin') || 
+      url.includes('api.') || url.includes('binance') || url.includes('twelvedata')) {
     e.respondWith(
-      fetch(e.request).catch(() => caches.match(e.request))
+      fetch(e.request)
+        .then(response => {
+          return caches.open(CACHE_NAME).then(cache => {
+            cache.put(e.request, response.clone());
+            return response;
+          });
+        })
+        .catch(() => caches.match(e.request))
     );
   } else {
+    // استراتيجية "الكاش أولاً" للملفات الثابتة (التصميم، الأيقونات)
     e.respondWith(
-      caches.match(e.request).then(cached => cached || fetch(e.request).then(resp => {
-        caches.open(CACHE_NAME).then(c => c.put(e.request, resp.clone()));
-        return resp;
-      }))
+      caches.match(e.request).then(cached => cached || fetch(e.request))
     );
   }
 });
